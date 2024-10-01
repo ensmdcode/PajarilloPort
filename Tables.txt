@@ -1,0 +1,35 @@
+
+<html>
+<head>
+  <title> Table practice </title>
+</head>
+<body>
+  <table border="0" cellpadding="9" cellspacing="9"> 
+    <tr> 
+      <td valign="top"> 
+        hello world </td>
+      <td>
+  <table align="center" border="1" width="100" cellpadding="6" cellspacing="5"> 
+    <caption> <h3> Practice Table </h3></caption>
+    <tr bgcolor="yellow">
+      <th> data</th>
+      <th> data </th>
+      <th> data </th>
+      <th> data </th>
+    </tr>
+    <tr>
+      <td bgcolor="purple" align="center"> Data </td>
+      <td colspan="2"> Data </td>
+      <td> Data </td>
+    </tr>
+    <tr> 
+      <td bgcolor="lightviolet" align="center"> Djsia </td>
+      <td> Data </td>
+      <td> Data </td>
+      <td> Data </td>
+    </tr>
+  </td>
+      </tr>
+  </table>
+</body>
+</html>

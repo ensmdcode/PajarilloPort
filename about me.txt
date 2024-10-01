@@ -1,0 +1,61 @@
+
+<html>
+<head>
+  <title> About Me </title>
+</head>
+<body background="mainbg.jpg"> <br>
+  <hr align="center" size="10" color="#4B6043"> 
+  <hr align="center" size="10" color="#4B6043"> </br>
+   <h1 align="center" style="font-size:50px;color:lightyellow;font-family:Fantasy;"> <a name="about me"> About me </a> </h1>
+  <table border="1" align="center" height="300" width="450" background="ab40d1e7a31744e2843a3e9253b2f3d2.jpg"> 
+    <tr> 
+      <td align="center"> 
+        <img src="1727504201481.jpg" alt="my picture" height="250" width="400" align="center"> </td>
+  </table>
+    <p style="text-align:center;font-family:fantasy;font-size:20px;color:lightyellow;margin-left:50px;margin-right:50px;"> 
+      Venice here! There's a lot to know about me, but for now, 
+      I'll introduce how I am as a student of Las Piñas City 
+      National Science High School (LPSci). 
+      Let's start with my top 3 favorite subjects: </br> </br>
+        FILIPINO </br>
+        This is not a subject I perform best in but this is 
+        the subject where I can be the most creative. I'm a PAHAM 
+        club member and officer since I was in grade 7. Honestly, 
+        this subject isn't easy and sometimes can be challenging 
+        but there's no beeter feeling than learning things that's 
+        related to a country that you came from.</br>
+        SCIENCE </br>
+        This is one of the most interesting and enjoyable subject 
+        ever. I love it when I really learn things, and in this 
+        subject I've learned a lot. It's amazing to study things 
+        such as biology, chemistry and physics. I admit that it's
+        hard but that's the reason why its fun. Learning hard things
+        makes me feel good about myself.</br>
+        MATH/BASIC CALCULUS/ICT </br>
+        Okay, I'll pit these three together. Math and bas cal 
+        are hard, math has never been easy but as I said, when 
+        it's hard but figurable, it's fun. Once I get grasp of 
+        the formula, It's actually fun to solve and it makes me 
+        look smart so... And I can say the same with Ict. At first, 
+        ICT is hard but figurable and I look smart everytime I code. 
+        I guess I put these three together because I have the same 
+        way how I figure it out. First I'll striggle and hate the 
+        whole thing, second, ill figure it out slowly, third I'll love it. </br> </br>
+      Now a little more background about how I am as a stident: 
+      I'll say that I can perform above average when it comes to academics. 
+      Ive been an academic achiever since elementary and I also do journalism. 
+      In fact, I'm PAHAM club member and officer since  grade 7. Ive joined DSPC 
+      when I was in grade 7&8 and won 4th olace the first time I joined as a Lapiscian. 
+      I'm still practicing to be better at my category and I'm hoping to olace first this 
+      SY if given the chance. 
+
+      Outside academics, I have far too many interest. I barely base intelligent on 
+      academics that's why the things I do outside it, are more important for me. I 
+      have a big interest in literatures of any kind and I'm starting to learn more about 
+      them. I do have a few hobbies and play some instrument.      
+    </p>
+   <hr align="center" size="10" color="#4B6043"> 
+   <hr align="center" size="10" color="#4B6043"> </br>
+
+</body>
+</html>
